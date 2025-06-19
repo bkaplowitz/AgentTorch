@@ -1,8 +1,8 @@
 omegaconf==2.3.0
 asyncio==3.4.3
-torch==2.1.2
+torch==2.7.1
 torch_geometric==2.5.3
-langchain==0.2.3
+langchain==0.2.5
 langchain-openai==0.1.8
 numpy==1.24.3
 pandas==1.5.0
